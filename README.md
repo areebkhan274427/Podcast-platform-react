@@ -1,5 +1,8 @@
 # Podcast Platform App Using React
 
+## **Deployed Link -**
+https://podcast-platform-react.netlify.app/
+
 ## **Context -**
 
 Podcasting has become a powerful medium for sharing stories, ideas, and knowledge. To make podcast creation and discovery more accessible, our platform streamlines the process, allowing users to create, upload, and share their podcasts while exploring new content from others in a user-friendly environment.
